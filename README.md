@@ -4,14 +4,17 @@ An implementation of the asymetric encryption technique RSA in python. The progr
 
 ![RSA-illustration](https://user-images.githubusercontent.com/50367062/179807017-d4e1c91d-7ebf-40c3-85dc-ba34add317b0.png)
 
-##Setup
+## Setup
 **Requirements**
+
 `python 3.9.6`
 
 **Step 1: Innstall Pip**
 The easiest way to install NumPy is by using the package manager Pip. Innstallation instructions for Ubuntu follows:
+
 `sudo apt install python3-pip`
 
 **Step 2: Innstall Numpy**
 With Pip set up, you use its command line for installing NumPy:
+
 `pip3 install numpy`
